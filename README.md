@@ -1,0 +1,1 @@
+This project analyzes a dataset of ramen noodle products from different brands, focusing on their ratings and styles. The primary goal is to explore and visualize patterns in ramen ratings to identify which brands and styles tend to receive higher or lower ratings
